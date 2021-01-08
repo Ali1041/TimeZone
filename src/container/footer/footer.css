@@ -1,0 +1,24 @@
+.footer{
+    color:white;
+    transform: translateX(0%);
+    transition: transform 0.3s ease-in-out;
+    max-width: fit-content;
+}
+.footer:hover{
+    color:  dodgerblue;
+    cursor: pointer;
+    transform: translateX(10%);
+    transition: transform .3s ease-in-out;
+}
+@media(max-width:720px){
+    .footer-div{
+        display: block!important;
+    }
+    .footer-div div{
+        text-align: center;
+    }
+    .footer-div div p{
+        max-width: 100%!important;
+        text-align: center!important;
+    }
+}

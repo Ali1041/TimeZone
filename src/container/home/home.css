@@ -1,0 +1,8 @@
+@media(max-width:720px){
+    .home-div{
+        width:50%!important;
+    }
+    .home-div div{
+        width: fit-content!important;
+    }
+}

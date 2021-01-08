@@ -1,0 +1,8 @@
+.bg-main{
+    background: url('../../assests/moritz-knoringer-b0fAuask1kI-unsplash.jpg') no-repeat center;
+    min-height: 500px;
+}
+.bg-login{
+    background: url('../../assests/luke-chesser-pJadQetzTkI-unsplash.jpg') no-repeat center;
+    min-height: 600px;
+}

@@ -1,0 +1,15 @@
+.p{
+    font-weight: 700;
+}
+.p:hover{
+    color:dodgerblue!important;
+    cursor: pointer;
+}
+.gradient-class{
+    background-image: -webkit-linear-gradient(top, #19c6e8, black 92%);
+}
+@media(max-width:720px){
+    .navbar-div{
+        width: 100%!important;
+    }
+}

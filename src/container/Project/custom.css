@@ -1,0 +1,26 @@
+text,.MuiInputBase-root,.MuiFormLabel-root{
+    fill: rgba(255, 255, 255, 1)!important;
+    color:rgba(255, 255, 255, 1)!important
+}
+@media(max-width:1025px){
+    form{
+        width: 100%!important;
+    }
+
+    .Mui-btn{
+        width: fit-content!important;
+    }
+    .custom-div{
+        width: 100%!important;
+    }
+    .custom-div-div{
+        width: fit-content!important;
+    }
+    .custom-btn{
+        width: 70%!important;
+       
+    }
+    .custom-btn div div{
+        width: fit-content!important;
+    }
+}
